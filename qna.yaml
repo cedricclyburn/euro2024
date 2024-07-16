@@ -23,7 +23,7 @@ seed_examples:
   question: Who was England's captain in the Euro 2024 final?
 task_description: 'Details on Euro 2024 football tournament'
 document:
-  repo: https://github.com/cedricclyburn/euro2024-training.git
+  repo: https://github.com/cedricclyburn/euro2024.git
   commit: b10902bfdba379bdb6f671eeaaf2e61102689714
   patterns:
     - data.md
