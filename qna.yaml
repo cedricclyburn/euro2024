@@ -24,6 +24,6 @@ seed_examples:
 task_description: 'Details on Euro 2024 football tournament'
 document:
   repo: https://github.com/cedricclyburn/euro2024.git
-  commit: b10902bfdba379bdb6f671eeaaf2e61102689714
+  commit: 4da9c5d3ff96e34f672968d4c243b2d9252cf910
   patterns:
     - data.md
