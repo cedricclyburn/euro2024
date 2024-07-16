@@ -1,0 +1,29 @@
+created_by: cedricclyburn
+domain: sports
+seed_examples:
+- answer: The Euro Cup is a major international football (soccer) tournament held every four years. It is organized by the Union of European Football Associations (UEFA) and features national teams from European countries competing for the title of European champions.
+  question: What is the Euro Cup?
+- answer: Spain beat England 2-1 in the Euro 2024 final.
+  question: Who won the Euro 2024?
+- answer: Germany hosted the Euro 2024 tournament.
+  question: Where was the 2024 Euro Cup tournament hosted?
+- answer: Spain holds the most Euro Cup wins of any country with 4 wins, followed by Germany with 3 wins, and Italy with 2 wins.
+  question: What is the history of Euro Cup wins by country?
+- answer: Spain won all seven games it played at Euro 2024, defeating formidable teams like Italy, Germany, France, and finally England. Nico Williams opened the scoring early in the second half, England's Cole Palmer equalized, and Mikel Oyarzabal's late strike sealed Spain's victory.
+  question: Can you provide additional information about the Euro 2024 final?
+- answer: Spain has won the European championship in 1964, 2008, 2012, and 2024, making them the first country to win it four times.
+  question: How many times has Spain won the European championship?
+- answer: England has never won a European championship. Their last major international tournament win was the 1966 World Cup.
+  question: Has England ever won the European championship?
+- answer: The final was held in Berlin, Germany.
+  question: Where was the Euro 2024 final played?
+- answer: Luis de la Fuente was Spain's manager for their Euro 2024 victory.
+  question: Who was Spain's manager for Euro 2024?
+- answer: Harry Kane was England's captain in the Euro 2024 final.
+  question: Who was England's captain in the Euro 2024 final?
+task_description: 'Details on Euro 2024 football tournament'
+document:
+  repo: https://github.com/cedricclyburn/euro2024.git
+  commit: 
+  patterns:
+    - data.txt
